@@ -1,0 +1,87 @@
+
+.light {
+	border-top-left-radius: 20px;
+	background: red;
+	border-top-right-radius: 20px;
+  position:relative;
+	top:20%;
+	width:50px;
+	height:50px;
+	margin:0 auto;
+	box-shadow: -40px -5px 30px 3px darkorange;
+}
+
+.up-body {
+	border-top-left-radius: 110px;
+	border-top-right-radius: 110px;
+	background: black;
+	width: 300px;
+	height: 150px;
+  text-align: center;
+	margin: 0 auto;
+}
+.main-window {
+	width: 200px;
+	height: 75px;
+	border-top-left-radius: 210px;
+	border-top-right-radius: 210px;
+	background: pink;
+	opacity: 0.6;
+	margin: 0 auto;
+  border-top: 70px;
+	position:relative;
+	text-align: center;
+	padding-top: 55px;
+	border: 10px  solid black;
+
+}
+.down-body {
+  border-top-left-radius: 100px;
+	border-top-right-radius: 100px;
+	border-bottom-left-radius: 100px;
+	border-bottom-right-radius: 100px;
+	background: purple;
+	width: 500px;
+	height: 150px;
+  text-align: center;
+	margin: 0 auto;
+}
+
+.lamp{
+	width:45px;
+	height:45px;
+	background: orange;
+	border-top-left-radius: 110px;
+	border-top-right-radius: 110px;
+  border-bottom-right-radius: 110px;
+	border-bottom-left-radius: 110px;
+	opacity: 0.9;
+	margin-top: 50px;
+}
+
+.mg-right{
+	margin-right: 30px;
+	float: right;
+}
+
+.mg-left {
+	float: left;
+	margin-left: 30px;
+}
+
+.tire {
+	width: 50px;
+	height: 70px;
+	border-bottom-left-radius: 110px;
+	border-bottom-right-radius: 110px;
+	background: black;
+}
+
+.position-right {
+	float: right;
+	margin-right: 490px;
+}
+.position-left {
+	float: left;
+	margin-left: 490px;
+}
